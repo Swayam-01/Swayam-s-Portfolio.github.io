@@ -455,6 +455,9 @@ abbr {
 .testimonial-item p {
     font-size: 1.3rem;
 }
+.testimonial-item ul{
+    font-size: 1.3rem;
+}
 #star {
     color: gold;
     font-size: 2rem;
